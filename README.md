@@ -1,1 +1,5 @@
 # Small-heat-shock-proteins-sHsps-
+
+Abstract
+The non-enzymatic process of glycation can have a substantial effect on the composition and capabilities of small heat shock proteins (sHSPs). Advanced glycation end products (AGEs) are produced by the non-enzymatic process of lysine glycation, which is the covalent binding of sugar molecules to proteins. This mechanism may lead to modifications in the stability and structure of proteins, which would modify the sHSPs' chaperone function. Glycation can also interfere with sHSPs' capacity to aid in protein folding and inhibit aggregation by interfering with their interaction with client proteins. These structural alterations may affect cellular proteostasis by impairing sHSPs' overall function.
+The mechanisms underlying lysine glycation in sHSPs involve the role of reactive carbonyl species, such as methylglyoxal and glyoxal, in modifying lysine residues. The accumulation of AGEs can result in protein cross-linking, further impairing their function and stability. Understanding the mechanisms of lysine glycation in sHSPs is crucial for developing targeted interventions to mitigate this detrimental process.
